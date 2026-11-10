@@ -1,0 +1,4 @@
+TAG=main4 sistemas=['WT', 'R60P', 'Y137A', 'Q133K']
+figuras: 34 presentes; faltan 0
+tablas: 72 presentes; faltan 0
+OK

@@ -1,0 +1,1 @@
+R60P carga=-2 aguas=9302 pares=25 Na=27 Cl=25

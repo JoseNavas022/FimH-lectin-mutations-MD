@@ -1,0 +1,4 @@
+PDB ID,Chain,Mutation,Status,ΔΔG Prediction (kcal/mol),Stability Effect,Error
+4XO0,A,R60P,completed,25.23,Destabilizing,
+4XO0,A,Q133K,completed,0.21,Neutral,
+4XO0,A,Y137A,completed,8.82,Destabilizing,

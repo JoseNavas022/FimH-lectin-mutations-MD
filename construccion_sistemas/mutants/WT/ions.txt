@@ -1,0 +1,1 @@
+WT carga=-1 aguas=9281 pares=25 Na=26 Cl=25

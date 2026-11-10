@@ -1,0 +1,1 @@
+Q133K carga=0 aguas=9258 pares=25 Na=25 Cl=25

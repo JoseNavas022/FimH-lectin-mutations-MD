@@ -1,0 +1,1 @@
+Y137A carga=-1 aguas=9270 pares=25 Na=26 Cl=25
